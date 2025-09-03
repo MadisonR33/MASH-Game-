@@ -3,7 +3,7 @@ body {
   background: #536f65;
   color: #0B4F4A;
   font-family: Times New Roman, serif;
-  font-size: 30px;
+  font-size: 35px;
   font-weight: 300;
   line-height: 1.65em;
   margin: 0 auto;
@@ -35,7 +35,7 @@ h1 {
   color: #C0F6F3;
   cursor: pointer; 
   display: block;
-  font-size: 25px;
+  font-size: 20px;
   font-weight: bold;  
   margin: 0 auto 60px;
   padding: 1em 2em; 
